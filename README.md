@@ -7,12 +7,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and pass the entrance test to EPAM's Big Data program!
 - ⚡ Fun fact: I love to ride my bike and read about Pc hardware and HiFi audio.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-rhwyubk399zmaud2jjruc3ro2.vercel.app/api/spotify-playing" alt="Erik Spotify Playing" width="350" />](https://open.spotify.com/user/rhwyubk399zmaud2jjruc3ro2)
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
@@ -29,15 +23,6 @@
 <br />
 
 ---
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
