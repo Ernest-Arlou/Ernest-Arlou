@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on pre Big Data program in EPAM.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects and pass the entrance test to EPAM's Big Data program!
-- ⚡ Fun fact: I love to ride my bike and read about Pc hardware and HiFi audio.
+- ⚡ Fun fact: I love to ride my bike and read about PC hardware and HiFi audio.
 
 ### Languages and Tools:
 
