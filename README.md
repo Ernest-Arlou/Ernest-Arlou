@@ -2,9 +2,9 @@
 
 ## I'm a Developer, Gamer, and Music lover!!
 
-- 🔭 I’m currently working on pre Big Data program in EPAM.
+- 🔭 I’m currently working on Java backend web stack.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and pass the entrance test to EPAM's Big Data program!
+- 🥅 2021 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I love to ride my bike and read about PC hardware and HiFi audio.
 
 ### Languages and Tools:
